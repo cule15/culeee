@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-21 23:13:42 +0000",
       "minecraft:stony_shore": "2025-04-21 22:55:35 +0000",
       "minecraft:grove": "2025-04-21 23:00:03 +0000",
       "minecraft:forest": "2025-04-21 22:51:21 +0000",
@@ -228,6 +229,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-21 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-21 23:11:33 +0000"
     },
     "done": true
   },

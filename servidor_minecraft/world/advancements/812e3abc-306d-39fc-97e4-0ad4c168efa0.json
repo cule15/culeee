@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-21 23:09:54 +0000",
       "minecraft:river": "2025-04-17 16:19:36 +0000",
       "minecraft:stony_shore": "2025-04-17 16:19:14 +0000",
       "minecraft:grove": "2025-04-17 16:20:28 +0000",
@@ -526,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-21 23:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 22:52:09 +0000"
@@ -541,7 +548,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-21 23:05:15 +0000",
-      "minecraft:creeper": "2025-04-21 23:07:04 +0000"
+      "minecraft:creeper": "2025-04-21 23:07:04 +0000",
+      "minecraft:zombie": "2025-04-21 23:09:15 +0000"
     },
     "done": false
   },
